@@ -13,7 +13,7 @@ Este projeto consiste em um dashboard interativo de Business Intelligence desenv
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando uma combinação de tecnologias para processamento de dados, backend e frontend:
-
+    **SQLite:** Liguagem usada para a extração de Dados do Banco 
 -   **Python:** Linguagem principal para a lógica de backend e análise de dados.
     -   `pandas`: Para manipulação e análise de dados.
     -   `matplotlib` e `seaborn`: Para geração de gráficos e visualizações.
