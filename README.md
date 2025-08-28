@@ -23,14 +23,15 @@ Este projeto foi desenvolvido utilizando uma combinação de tecnologias para pr
 -   **JavaScript:** Para interatividade no frontend e consumo da API de dados.
 
 ## 💡 O Papel da Inteligência Artificial (Manus)
+Para otimizar e acelerar o desenvolvimento deste dashboard, utilizei um Agente de IA (Manus) como a principal ferramenta de desenvolvimento. Após a fase inicial de tratamento de dados com SQL, o Manus foi fundamental e atuou como um co-piloto para:
 
-Para otimizar e acelerar o desenvolvimento deste dashboard, utilizei um **Agente de IA (Manus)**. Após a fase inicial de tratamento de dados com SQL e Excel, o Manus foi fundamental para:
+Criação do Dashboard: O agente de IA gerou toda a estrutura de código em HTML, a estilização em CSS e o JavaScript necessário para a interatividade e para o consumo da API de dados.
 
--   **Geração de Gráficos:** Auxiliou na criação de visualizações de dados complexas e esteticamente agradáveis.
--   **Desenvolvimento Frontend:** Contribuiu para a implementação do design moderno e responsivo, incluindo a aplicação de estilos e animações.
--   **Otimização de Código:** Ajudou a refinar o código para melhor performance e legibilidade.
+Desenvolvimento Frontend: Contribuiu para a implementação do design moderno e responsivo, incluindo a aplicação de estilos e animações.
 
-Essa colaboração com a IA permitiu focar mais na estratégia e nos insights, enquanto o agente cuidava da execução de tarefas de codificação e design, resultando em um processo de desenvolvimento mais eficiente e inovador.
+Otimização de Código: Ajudou a refinar o código para melhor performance e legibilidade, garantindo um resultado final polido e profissional.
+
+Essa colaboração com a IA me permitiu focar mais na estratégia e nos insights de negócio, enquanto o agente cuidava da execução de tarefas complexas de codificação e design, resultando em um processo de desenvolvimento muito mais eficiente e inovador
 
 ## 📁 Estrutura do Projeto
 
