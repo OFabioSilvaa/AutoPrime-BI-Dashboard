@@ -1,0 +1,201 @@
+nome,telefone,data_cadastro,estado,data_inicio,plano_id,data_fim,modelo,valor_dia,nome_plano,status_pagamento,valor_pago,valor_faltante,oferta_desconto
+Maria Almeida,(79)97758-5711,2024-10-13,Minas Gerais,2024-06-06,3,2024-07-06,Hyundai HB20,120,Mensal,Pendente,2526.36,713.64,Oferta: plano trimestral
+Laura Almeida,(88)91190-8801,2024-04-01,Bahia,2024-01-10,3,2024-02-09,Chevrolet Onix,115,Mensal,Pendente,1919.16,1185.84,Oferta: plano trimestral
+Maria Rodrigues,(45)91924-3396,2024-12-27,Rio de Janeiro,2024-09-22,1,2024-09-23,Ford Ranger,300,Diário,Pendente,202.8,97.2,Oferta: plano semanal
+Maria Souza,(72)95882-7111,2024-01-21,São Paulo,2024-04-06,3,2024-05-06,Volkswagen T-Cross,230,Mensal,Pendente,4457.27,1752.73,Oferta: plano trimestral
+Bianca Melo,(20)99694-9279,2024-06-18,Minas Gerais,2024-11-15,1,2024-11-16,Jeep Compass,250,Diário,Pendente,168.73,81.27,Oferta: plano semanal
+João Silva,(11)96578-5760,2024-12-23,Rio de Janeiro,2024-01-23,2,2024-01-30,Hyundai HB20,120,Semanal,Pendente,624.03,173.97,Oferta: plano mensal
+Rafael Silva,(92)96067-8164,2024-09-28,Rio de Janeiro,2024-06-16,1,2024-06-17,Honda Civic,175,Diário,Pendente,100.13,74.87,Oferta: plano semanal
+Felipe Nascimento,(73)99524-6701,2024-06-26,Minas Gerais,2024-03-16,1,2024-03-17,Toyota Corolla,180,Diário,Pendente,120.15,59.85,Oferta: plano semanal
+João Silva,(11)96578-5760,2024-12-23,Rio de Janeiro,2024-02-10,1,2024-02-11,Honda Civic,175,Diário,Pendente,138.95,36.05,Oferta: plano semanal
+Maria Rodrigues,(48)98132-1995,2024-08-13,Rio de Janeiro,2024-05-20,3,2024-06-19,Honda Civic,175,Mensal,Pendente,4413.68,311.32,Oferta: plano trimestral
+Laura Costa,(37)95371-2958,2024-11-15,Minas Gerais,2024-04-10,3,2024-05-10,Fiat Toro,280,Mensal,Pendente,4808.66,2751.34,Oferta: plano trimestral
+Bianca Santos,(34)94600-4797,2025-01-26,Minas Gerais,2024-01-14,2,2024-01-21,Honda Civic,175,Semanal,Pendente,644.85,518.9,Oferta: plano mensal
+Felipe Nascimento,(73)99524-6701,2024-06-26,Minas Gerais,2024-12-13,1,2024-12-14,Hyundai HB20,120,Diário,Pendente,103.52,16.48,Oferta: plano semanal
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2024-03-22,3,2024-04-21,Honda Civic,175,Mensal,Pendente,2885.1,1839.9,Oferta: plano trimestral
+Carla Santos,(89)91364-9043,2024-07-26,Rio de Janeiro,2024-11-19,3,2024-12-19,Fiat Toro,280,Mensal,Pendente,4839.08,2720.92,Oferta: plano trimestral
+Felipe Souza,(81)93803-3176,2024-12-12,Rio de Janeiro,2025-02-02,3,2025-03-04,Toyota Corolla,180,Mensal,Pendente,4807.93,52.07,Oferta: plano trimestral
+Laura Costa,(37)95371-2958,2024-11-15,Minas Gerais,2024-09-21,2,2024-09-28,Hyundai HB20,120,Semanal,Pendente,437.14,360.86,Oferta: plano mensal
+Laura Almeida,(88)91190-8801,2024-04-01,Bahia,2024-07-15,2,2024-07-22,Toyota Corolla,180,Semanal,Pendente,1117.96,79.04,Oferta: plano mensal
+Maria Santos,(82)99772-7314,2024-04-08,Minas Gerais,2025-01-15,1,2025-01-16,Hyundai HB20,120,Diário,Pendente,89.54,30.46,Oferta: plano semanal
+Felipe Costa,(45)98170-5143,2024-06-06,Rio de Janeiro,2024-01-12,1,2024-01-13,Honda Civic,175,Diário,Pendente,139.4,35.6,Oferta: plano semanal
+Felipe Souza,(82)92474-2353,2024-03-16,Minas Gerais,2024-10-03,1,2024-10-04,Honda Civic,175,Diário,Pendente,130.04,44.96,Oferta: plano semanal
+Juliana Nascimento,(85)91213-4212,2024-06-10,Rio de Janeiro,2024-03-13,2,2024-03-20,Fiat Toro,280,Semanal,Pendente,1536.38,325.62,Oferta: plano mensal
+Rafael Santos,(48)95169-3780,2024-08-28,Bahia,2024-06-25,1,2024-06-26,Jeep Compass,250,Diário,Pendente,232.72,17.28,Oferta: plano semanal
+Carla Santos,(30)94928-1406,2024-08-05,São Paulo,2024-11-29,3,2024-12-29,Chevrolet Onix,115,Mensal,Pendente,2223.29,881.71,Oferta: plano trimestral
+Felipe Costa,(45)98170-5143,2024-06-06,Rio de Janeiro,2024-07-20,1,2024-07-21,Hyundai HB20,120,Diário,Pendente,86.75,33.25,Oferta: plano semanal
+Maria Rodrigues,(45)91924-3396,2024-12-27,Rio de Janeiro,2024-10-18,3,2024-11-17,Hyundai HB20,120,Mensal,Pendente,2008.95,1231.05,Oferta: plano trimestral
+Maria Silva,(46)94910-6265,2024-08-24,Minas Gerais,2024-09-08,2,2024-09-15,Chevrolet Onix,115,Semanal,Pendente,729.62,35.13,Oferta: plano mensal
+Pedro Almeida,(12)91803-8859,2024-07-30,Bahia,2024-01-21,2,2024-01-28,Jeep Compass,250,Semanal,Pendente,1160.92,501.58,Oferta: plano mensal
+João Pereira,(51)96461-2415,2024-02-20,Minas Gerais,2024-08-14,2,2024-08-21,Jeep Compass,250,Semanal,Pendente,1433.8,228.7,Oferta: plano mensal
+Carla Costa,(31)91003-1235,2024-07-26,Rio de Janeiro,2024-06-08,1,2024-06-09,Honda Civic,175,Diário,Pendente,163.34,11.66,Oferta: plano semanal
+Laura Nascimento,(85)93869-4664,2024-05-07,Bahia,2024-10-23,2,2024-10-30,Chevrolet Onix,115,Semanal,Pendente,509.38,255.37,Oferta: plano mensal
+Felipe Souza,(81)93803-3176,2024-12-12,Rio de Janeiro,2024-09-12,1,2024-09-13,Toyota Corolla,180,Diário,Pendente,179.78,0.22,Oferta: plano semanal
+Rafael Nascimento,(62)93009-4049,2024-07-01,Minas Gerais,2024-05-10,2,2024-05-17,Fiat Toro,280,Semanal,Pendente,1639.84,222.16,Oferta: plano mensal
+João Pereira,(51)96461-2415,2024-02-20,Minas Gerais,2024-12-03,1,2024-12-04,Jeep Compass,250,Diário,Pendente,175.22,74.78,Oferta: plano semanal
+João Pereira,(51)96461-2415,2024-02-20,Minas Gerais,2024-09-27,2,2024-10-04,Toyota Corolla,180,Semanal,Pendente,980.51,216.49,Oferta: plano mensal
+Maria Rodrigues,(48)98132-1995,2024-08-13,Rio de Janeiro,2024-05-24,3,2024-06-23,Fiat Toro,280,Mensal,Pendente,4463.89,3096.11,Oferta: plano trimestral
+Bianca Costa,(70)96105-2827,2024-09-25,Bahia,2024-10-02,3,2024-11-01,Toyota Corolla,180,Mensal,Pendente,3033.41,1826.59,Oferta: plano trimestral
+Bianca Nascimento,(58)98741-7683,2024-06-15,São Paulo,2024-06-23,1,2024-06-24,Volkswagen T-Cross,230,Diário,Pendente,204.68,25.32,Oferta: plano semanal
+Rafael Pereira,(91)93928-5117,2025-01-23,Minas Gerais,2024-11-03,3,2024-12-03,Fiat Toro,280,Mensal,Pendente,4019.2,3540.8,Oferta: plano trimestral
+Lucas Almeida,(84)96123-5686,2024-01-28,Rio de Janeiro,2024-06-17,3,2024-07-17,Chevrolet Onix,115,Mensal,Pendente,2470.08,634.92,Oferta: plano trimestral
+Marcos Souza,(35)95904-5005,2024-05-24,Bahia,2024-10-12,2,2024-10-19,Honda Civic,175,Semanal,Pendente,1116.19,47.56,Oferta: plano mensal
+Rafael Silva,(92)96067-8164,2024-09-28,Rio de Janeiro,2024-10-29,3,2024-11-28,Toyota Corolla,180,Mensal,Pendente,3532.35,1327.65,Oferta: plano trimestral
+Carla Santos,(30)94928-1406,2024-08-05,São Paulo,2024-10-08,2,2024-10-15,Fiat Toro,280,Semanal,Pendente,1016.4,845.6,Oferta: plano mensal
+Juliana Souza,(44)99451-9943,2024-08-20,São Paulo,2024-05-13,1,2024-05-14,Fiat Toro,280,Diário,Pendente,256.53,23.47,Oferta: plano semanal
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-02-15,3,2024-03-16,Volkswagen T-Cross,230,Mensal,Pendente,3106.8,3103.2,Oferta: plano trimestral
+João Almeida,(97)92892-7660,2024-09-06,Bahia,2024-07-20,2,2024-07-27,Ford Ranger,300,Semanal,Pendente,1054.65,940.35,Oferta: plano mensal
+Felipe Costa,(45)98170-5143,2024-06-06,Rio de Janeiro,2024-11-12,3,2024-12-12,Chevrolet Onix,115,Mensal,Pendente,2950.25,154.75,Oferta: plano trimestral
+Maria Silva,(46)94910-6265,2024-08-24,Minas Gerais,2024-06-16,3,2024-07-16,Volkswagen T-Cross,230,Mensal,Pendente,3180.62,3029.38,Oferta: plano trimestral
+Rafael Nascimento,(62)93009-4049,2024-07-01,Minas Gerais,2024-12-09,1,2024-12-10,Ford Ranger,300,Diário,Pendente,227.44,72.56,Oferta: plano semanal
+Ana Silva,(28)99981-4566,2024-05-31,São Paulo,2024-01-14,3,2024-02-13,Toyota Corolla,180,Mensal,Pendente,4115.19,744.81,Oferta: plano trimestral
+Rafael Souza,(13)96258-3628,2025-02-03,São Paulo,2024-11-18,2,2024-11-25,Jeep Compass,250,Semanal,Pendente,874.67,787.83,Oferta: plano mensal
+Rafael Pereira,(91)93928-5117,2025-01-23,Minas Gerais,2024-12-10,2,2024-12-17,Ford Ranger,300,Semanal,Pendente,1232.06,762.94,Oferta: plano mensal
+Laura Souza,(66)97453-8961,2024-05-07,Bahia,2024-03-04,3,2024-04-03,Jeep Compass,250,Mensal,Pendente,6116.85,633.15,Oferta: plano trimestral
+Laura Nascimento,(85)93869-4664,2024-05-07,Bahia,2024-06-25,1,2024-06-26,Honda Civic,175,Diário,Pendente,134.63,40.37,Oferta: plano semanal
+Maria Almeida,(13)93700-3682,2024-04-15,Bahia,2024-07-06,1,2024-07-07,Jeep Compass,250,Diário,Pendente,226.15,23.85,Oferta: plano semanal
+Juliana Rodrigues,(77)92678-8503,2024-10-20,São Paulo,2024-04-12,1,2024-04-13,Toyota Corolla,180,Diário,Pendente,176.92,3.08,Oferta: plano semanal
+Lucas Almeida,(94)97106-7958,2024-02-27,Minas Gerais,2024-09-27,1,2024-09-28,Ford Ranger,300,Diário,Pendente,150.47,149.53,Oferta: plano semanal
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2024-06-18,2,2024-06-25,Honda Civic,175,Semanal,Pendente,980.19,183.56,Oferta: plano mensal
+Maria Rodrigues,(48)98132-1995,2024-08-13,Rio de Janeiro,2024-06-18,1,2024-06-19,Toyota Corolla,180,Diário,Pendente,150.83,29.17,Oferta: plano semanal
+Juliana Pereira,(75)98329-9208,2024-06-27,Minas Gerais,2024-01-03,2,2024-01-10,Honda Civic,175,Semanal,Pendente,695.3,468.45,Oferta: plano mensal
+Juliana Pereira,(41)97181-6186,2024-11-22,Rio de Janeiro,2024-11-08,2,2024-11-15,Hyundai HB20,120,Semanal,Pendente,537.83,260.17,Oferta: plano mensal
+Juliana Souza,(44)99451-9943,2024-08-20,São Paulo,2024-06-14,2,2024-06-21,Fiat Toro,280,Semanal,Pendente,993.12,868.88,Oferta: plano mensal
+Maria Rodrigues,(48)98132-1995,2024-08-13,Rio de Janeiro,2024-10-09,1,2024-10-10,Fiat Toro,280,Diário,Pendente,191.4,88.6,Oferta: plano semanal
+Carla Nascimento,(63)98988-7277,2024-11-23,São Paulo,2024-01-29,2,2024-02-05,Honda Civic,175,Semanal,Pendente,949.49,214.26,Oferta: plano mensal
+João Almeida,(97)92892-7660,2024-09-06,Bahia,2024-05-18,1,2024-05-19,Chevrolet Onix,115,Diário,Pendente,90.7,24.3,Oferta: plano semanal
+Maria Rodrigues,(61)99561-6377,2024-09-16,Minas Gerais,2024-06-04,2,2024-06-11,Ford Ranger,300,Semanal,Pendente,1231.81,763.19,Oferta: plano mensal
+Lucas Almeida,(84)96123-5686,2024-01-28,Rio de Janeiro,2024-10-07,3,2024-11-06,Toyota Corolla,180,Mensal,Pendente,4440.69,419.31,Oferta: plano trimestral
+Rafael Rodrigues,(20)94638-3294,2024-04-19,Rio de Janeiro,2024-09-26,3,2024-10-26,Toyota Corolla,180,Mensal,Pendente,3724.93,1135.07,Oferta: plano trimestral
+Felipe Oliveira,(78)94394-1292,2024-08-18,Bahia,2024-11-14,2,2024-11-21,Fiat Toro,280,Semanal,Pendente,1617.2,244.8,Oferta: plano mensal
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-04-13,2,2024-04-20,Hyundai HB20,120,Semanal,Pendente,431.21,366.79,Oferta: plano mensal
+Bianca Melo,(20)99694-9279,2024-06-18,Minas Gerais,2024-05-22,3,2024-06-21,Honda Civic,175,Mensal,Pendente,4236.33,488.67,Oferta: plano trimestral
+Bianca Nascimento,(58)98741-7683,2024-06-15,São Paulo,2024-09-26,2,2024-10-03,Ford Ranger,300,Semanal,Pendente,1271.28,723.72,Oferta: plano mensal
+Juliana Rodrigues,(77)92678-8503,2024-10-20,São Paulo,2024-05-10,1,2024-05-11,Volkswagen T-Cross,230,Diário,Pendente,117.44,112.56,Oferta: plano semanal
+João Pereira,(51)96461-2415,2024-02-20,Minas Gerais,2024-03-11,3,2024-04-10,Honda Civic,175,Mensal,Pendente,3243.35,1481.65,Oferta: plano trimestral
+Bianca Costa,(70)96105-2827,2024-09-25,Bahia,2024-11-09,1,2024-11-10,Jeep Compass,250,Diário,Pendente,129.7,120.3,Oferta: plano semanal
+Felipe Souza,(28)94226-7731,2024-03-24,São Paulo,2025-01-09,1,2025-01-10,Volkswagen T-Cross,230,Diário,Pendente,148.12,81.88,Oferta: plano semanal
+Marcos Souza,(37)96972-5306,2024-11-06,Rio de Janeiro,2024-06-25,1,2024-06-26,Fiat Toro,280,Diário,Pendente,177.32,102.68,Oferta: plano semanal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-08-21,1,2024-08-22,Hyundai HB20,120,Diário,Pendente,85.29,34.71,Oferta: plano semanal
+Felipe Costa,(75)92425-9280,2024-09-11,São Paulo,2024-04-12,2,2024-04-19,Honda Civic,175,Semanal,Pendente,1086.07,77.68,Oferta: plano mensal
+Pedro Almeida,(47)92713-2777,2024-08-13,São Paulo,2024-07-14,3,2024-08-13,Honda Civic,175,Mensal,Pendente,2927.31,1797.69,Oferta: plano trimestral
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-05-16,2,2024-05-23,Fiat Toro,280,Semanal,Pendente,966.82,895.18,Oferta: plano mensal
+Rafael Pereira,(91)93928-5117,2025-01-23,Minas Gerais,2024-01-07,2,2024-01-14,Fiat Toro,280,Semanal,Pendente,1102.44,759.56,Oferta: plano mensal
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-05-18,2,2024-05-25,Honda Civic,175,Semanal,Pendente,1113.92,49.83,Oferta: plano mensal
+Ana Oliveira,(17)95459-9186,2024-05-30,São Paulo,2024-10-23,1,2024-10-24,Jeep Compass,250,Diário,Pendente,209.15,40.85,Oferta: plano semanal
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-01-12,1,2024-01-13,Jeep Compass,250,Diário,Pendente,229.56,20.44,Oferta: plano semanal
+Pedro Silva,(21)94112-5162,2024-08-05,Bahia,2024-12-09,2,2024-12-16,Hyundai HB20,120,Semanal,Pendente,768.7,29.3,Oferta: plano mensal
+Pedro Almeida,(12)91803-8859,2024-07-30,Bahia,2025-01-30,2,2025-02-06,Volkswagen T-Cross,230,Semanal,Pendente,920.74,608.76,Oferta: plano mensal
+Marcos Silva,(33)92151-9228,2024-08-27,Minas Gerais,2024-06-19,2,2024-06-26,Volkswagen T-Cross,230,Semanal,Pendente,953.56,575.94,Oferta: plano mensal
+Maria Rodrigues,(45)91924-3396,2024-12-27,Rio de Janeiro,2024-07-20,2,2024-07-27,Honda Civic,175,Semanal,Pendente,1133.94,29.81,Oferta: plano mensal
+Bianca Melo,(20)99694-9279,2024-06-18,Minas Gerais,2024-12-20,1,2024-12-21,Hyundai HB20,120,Diário,Pendente,60.08,59.92,Oferta: plano semanal
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2024-09-03,2,2024-09-10,Chevrolet Onix,115,Semanal,Pendente,543.26,221.49,Oferta: plano mensal
+Rafael Silva,(47)98968-1092,2025-01-11,Minas Gerais,2024-04-11,3,2024-05-11,Toyota Corolla,180,Mensal,Pendente,4475.01,384.99,Oferta: plano trimestral
+Marcos Silva,(33)92151-9228,2024-08-27,Minas Gerais,2024-09-02,3,2024-10-02,Honda Civic,175,Mensal,Pendente,2555.29,2169.71,Oferta: plano trimestral
+João Almeida,(97)92892-7660,2024-09-06,Bahia,2024-03-20,1,2024-03-21,Volkswagen T-Cross,230,Diário,Pendente,137.4,92.6,Oferta: plano semanal
+Felipe Almeida,(55)97898-7047,2024-06-06,Rio de Janeiro,2024-10-05,1,2024-10-06,Volkswagen T-Cross,230,Diário,Pendente,139.4,90.6,Oferta: plano semanal
+Felipe Silva,(88)98447-3354,2024-08-15,Minas Gerais,2024-09-21,2,2024-09-28,Hyundai HB20,120,Semanal,Pendente,649.49,148.51,Oferta: plano mensal
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2024-06-22,1,2024-06-23,Honda Civic,175,Diário,Pendente,103.21,71.79,Oferta: plano semanal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-05-16,2,2024-05-23,Honda Civic,175,Semanal,Pendente,668.78,494.97,Oferta: plano mensal
+Maria Souza,(72)95882-7111,2024-01-21,São Paulo,2024-10-31,2,2024-11-07,Jeep Compass,250,Semanal,Pendente,1040.72,621.78,Oferta: plano mensal
+Maria Almeida,(13)93700-3682,2024-04-15,Bahia,2024-02-19,2,2024-02-26,Hyundai HB20,120,Semanal,Pendente,470.22,327.78,Oferta: plano mensal
+Pedro Silva,(21)94112-5162,2024-08-05,Bahia,2025-01-14,3,2025-02-13,Jeep Compass,250,Mensal,Pendente,5418.97,1331.03,Oferta: plano trimestral
+Maria Souza,(52)92824-3187,2024-10-03,Bahia,2024-02-24,2,2024-03-02,Chevrolet Onix,115,Semanal,Pendente,646.12,118.63,Oferta: plano mensal
+Carla Costa,(31)91003-1235,2024-07-26,Rio de Janeiro,2024-02-15,2,2024-02-22,Fiat Toro,280,Semanal,Pendente,1803.45,58.55,Oferta: plano mensal
+Rafael Nascimento,(62)93009-4049,2024-07-01,Minas Gerais,2024-11-20,1,2024-11-21,Fiat Toro,280,Diário,Pendente,146.03,133.97,Oferta: plano semanal
+Ana Pereira,(91)93050-7529,2024-09-12,São Paulo,2024-06-26,2,2024-07-03,Jeep Compass,250,Semanal,Pendente,1256.24,406.26,Oferta: plano mensal
+Lucas Oliveira,(17)98448-3831,2024-10-20,São Paulo,2025-01-29,3,2025-02-28,Honda Civic,175,Mensal,Pendente,4151.73,573.27,Oferta: plano trimestral
+Pedro Silva,(21)94112-5162,2024-08-05,Bahia,2024-09-16,2,2024-09-23,Chevrolet Onix,115,Semanal,Pendente,614.14,150.61,Oferta: plano mensal
+Pedro Silva,(67)98704-6420,2024-07-07,São Paulo,2024-05-26,2,2024-06-02,Hyundai HB20,120,Semanal,Pendente,518.22,279.78,Oferta: plano mensal
+Ana Oliveira,(17)95459-9186,2024-05-30,São Paulo,2024-10-18,2,2024-10-25,Honda Civic,175,Semanal,Pendente,716.14,447.61,Oferta: plano mensal
+Maria Souza,(72)95882-7111,2024-01-21,São Paulo,2024-05-15,3,2024-06-14,Fiat Toro,280,Mensal,Pendente,4071.26,3488.74,Oferta: plano trimestral
+Rafael Silva,(92)96067-8164,2024-09-28,Rio de Janeiro,2024-11-19,1,2024-11-20,Honda Civic,175,Diário,Pendente,142.16,32.84,Oferta: plano semanal
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2024-10-10,3,2024-11-09,Jeep Compass,250,Mensal,Pendente,4570.72,2179.28,Oferta: plano trimestral
+Lucas Almeida,(84)96123-5686,2024-01-28,Rio de Janeiro,2024-07-09,1,2024-07-10,Jeep Compass,250,Diário,Pendente,140.34,109.66,Oferta: plano semanal
+Maria Santos,(82)99772-7314,2024-04-08,Minas Gerais,2024-10-18,3,2024-11-17,Honda Civic,175,Mensal,Pendente,4559.07,165.93,Oferta: plano trimestral
+Carla Oliveira,(81)94959-3823,2024-12-02,Bahia,2024-12-09,3,2025-01-08,Volkswagen T-Cross,230,Mensal,Pendente,5261.88,948.12,Oferta: plano trimestral
+Marcos Silva,(33)92151-9228,2024-08-27,Minas Gerais,2024-09-28,3,2024-10-28,Ford Ranger,300,Mensal,Pendente,5642.51,2457.49,Oferta: plano trimestral
+Rafael Nascimento,(62)93009-4049,2024-07-01,Minas Gerais,2024-08-31,1,2024-09-01,Volkswagen T-Cross,230,Diário,Pendente,151.37,78.63,Oferta: plano semanal
+Juliana Oliveira,(69)98430-4402,2024-04-27,Rio de Janeiro,2025-01-08,1,2025-01-09,Ford Ranger,300,Diário,Pendente,214.57,85.43,Oferta: plano semanal
+Ana Oliveira,(17)95459-9186,2024-05-30,São Paulo,2024-01-12,2,2024-01-19,Toyota Corolla,180,Semanal,Pendente,962.9,234.1,Oferta: plano mensal
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-01-06,2,2024-01-13,Jeep Compass,250,Semanal,Pendente,1171.85,490.65,Oferta: plano mensal
+Lucas Santos,(44)95503-4724,2024-11-09,Minas Gerais,2024-06-15,3,2024-07-15,Chevrolet Onix,115,Mensal,Pendente,2200.63,904.37,Oferta: plano trimestral
+Felipe Costa,(75)92425-9280,2024-09-11,São Paulo,2025-01-11,2,2025-01-18,Honda Civic,175,Semanal,Pendente,776.32,387.43,Oferta: plano mensal
+Ana Oliveira,(17)95459-9186,2024-05-30,São Paulo,2024-09-29,1,2024-09-30,Volkswagen T-Cross,230,Diário,Pendente,147.83,82.17,Oferta: plano semanal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-11-04,1,2024-11-05,Ford Ranger,300,Diário,Pendente,221.59,78.41,Oferta: plano semanal
+Carla Nascimento,(63)98988-7277,2024-11-23,São Paulo,2024-01-23,1,2024-01-24,Honda Civic,175,Diário,Pendente,100.9,74.1,Oferta: plano semanal
+Lucas Santos,(44)95503-4724,2024-11-09,Minas Gerais,2025-01-23,3,2025-02-22,Fiat Toro,280,Mensal,Pendente,7511.0,49.0,Oferta: plano trimestral
+Carla Santos,(30)94928-1406,2024-08-05,São Paulo,2024-03-23,3,2024-04-22,Jeep Compass,250,Mensal,Pendente,6011.82,738.18,Oferta: plano trimestral
+Carla Nascimento,(85)98813-9711,2024-05-04,São Paulo,2024-09-01,3,2024-10-01,Volkswagen T-Cross,230,Mensal,Pendente,4202.31,2007.69,Oferta: plano trimestral
+Carla Nascimento,(85)98813-9711,2024-05-04,São Paulo,2024-01-23,2,2024-01-30,Volkswagen T-Cross,230,Semanal,Pendente,813.09,716.41,Oferta: plano mensal
+Rafael Silva,(92)96067-8164,2024-09-28,Rio de Janeiro,2024-09-15,1,2024-09-16,Hyundai HB20,120,Diário,Pendente,112.34,7.66,Oferta: plano semanal
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-07-03,1,2024-07-04,Jeep Compass,250,Diário,Pendente,187.57,62.43,Oferta: plano semanal
+Bianca Santos,(34)94600-4797,2025-01-26,Minas Gerais,2024-07-28,1,2024-07-29,Toyota Corolla,180,Diário,Pendente,121.43,58.57,Oferta: plano semanal
+Rafael Pereira,(91)93928-5117,2025-01-23,Minas Gerais,2024-11-08,3,2024-12-08,Fiat Toro,280,Mensal,Pendente,5714.23,1845.77,Oferta: plano trimestral
+Felipe Santos,(67)98199-8602,2024-10-09,Minas Gerais,2024-07-25,3,2024-08-24,Chevrolet Onix,115,Mensal,Pendente,2396.6,708.4,Oferta: plano trimestral
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-09-05,1,2024-09-06,Chevrolet Onix,115,Diário,Pendente,105.36,9.64,Oferta: plano semanal
+Felipe Almeida,(55)97898-7047,2024-06-06,Rio de Janeiro,2024-08-16,3,2024-09-15,Volkswagen T-Cross,230,Mensal,Pendente,6093.65,116.35,Oferta: plano trimestral
+Lucas Oliveira,(17)98448-3831,2024-10-20,São Paulo,2024-07-04,2,2024-07-11,Honda Civic,175,Semanal,Pendente,1147.65,16.1,Oferta: plano mensal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-04-29,2,2024-05-06,Chevrolet Onix,115,Semanal,Pendente,518.92,245.83,Oferta: plano mensal
+Marcos Costa,(95)98126-7842,2025-01-28,Bahia,2024-04-29,1,2024-04-30,Jeep Compass,250,Diário,Pendente,172.63,77.37,Oferta: plano semanal
+Marcos Souza,(35)95904-5005,2024-05-24,Bahia,2024-09-13,3,2024-10-13,Honda Civic,175,Mensal,Pendente,3311.05,1413.95,Oferta: plano trimestral
+Ana Oliveira,(17)95459-9186,2024-05-30,São Paulo,2024-07-25,2,2024-08-01,Honda Civic,175,Semanal,Pendente,877.47,286.28,Oferta: plano mensal
+Maria Santos,(82)99772-7314,2024-04-08,Minas Gerais,2024-07-23,3,2024-08-22,Fiat Toro,280,Mensal,Pendente,4077.6,3482.4,Oferta: plano trimestral
+Juliana Souza,(44)99451-9943,2024-08-20,São Paulo,2024-09-01,3,2024-10-01,Honda Civic,175,Mensal,Pendente,4079.24,645.76,Oferta: plano trimestral
+Rafael Santos,(95)98632-7795,2024-01-16,São Paulo,2024-05-16,1,2024-05-17,Toyota Corolla,180,Diário,Pendente,159.05,20.95,Oferta: plano semanal
+Bianca Santos,(34)94600-4797,2025-01-26,Minas Gerais,2024-03-02,2,2024-03-09,Honda Civic,175,Semanal,Pendente,1016.86,146.89,Oferta: plano mensal
+Laura Almeida,(88)91190-8801,2024-04-01,Bahia,2024-04-17,1,2024-04-18,Hyundai HB20,120,Diário,Pendente,92.61,27.39,Oferta: plano semanal
+Carla Santos,(30)94928-1406,2024-08-05,São Paulo,2024-11-29,1,2024-11-30,Honda Civic,175,Diário,Pendente,163.44,11.56,Oferta: plano semanal
+Pedro Almeida,(47)92713-2777,2024-08-13,São Paulo,2024-01-24,3,2024-02-23,Hyundai HB20,120,Mensal,Pendente,1841.13,1398.87,Oferta: plano trimestral
+Felipe Silva,(88)98447-3354,2024-08-15,Minas Gerais,2025-01-12,3,2025-02-11,Volkswagen T-Cross,230,Mensal,Pendente,3686.88,2523.12,Oferta: plano trimestral
+Bianca Santos,(34)94600-4797,2025-01-26,Minas Gerais,2024-01-29,2,2024-02-05,Jeep Compass,250,Semanal,Pendente,1316.27,346.23,Oferta: plano mensal
+Rafael Souza,(13)96258-3628,2025-02-03,São Paulo,2024-10-28,1,2024-10-29,Fiat Toro,280,Diário,Pendente,151.67,128.33,Oferta: plano semanal
+Felipe Santos,(67)98199-8602,2024-10-09,Minas Gerais,2024-01-25,2,2024-02-01,Ford Ranger,300,Semanal,Pendente,1744.61,250.39,Oferta: plano mensal
+Carla Santos,(89)91364-9043,2024-07-26,Rio de Janeiro,2024-10-08,3,2024-11-07,Hyundai HB20,120,Mensal,Pendente,2204.48,1035.52,Oferta: plano trimestral
+Maria Silva,(46)94910-6265,2024-08-24,Minas Gerais,2024-10-16,3,2024-11-15,Fiat Toro,280,Mensal,Pendente,5149.3,2410.7,Oferta: plano trimestral
+Felipe Souza,(82)92474-2353,2024-03-16,Minas Gerais,2025-01-06,2,2025-01-13,Volkswagen T-Cross,230,Semanal,Pendente,770.3,759.2,Oferta: plano mensal
+Bianca Melo,(20)99694-9279,2024-06-18,Minas Gerais,2024-06-01,2,2024-06-08,Jeep Compass,250,Semanal,Pendente,1273.9,388.6,Oferta: plano mensal
+Ana Silva,(28)99981-4566,2024-05-31,São Paulo,2024-03-16,3,2024-04-15,Toyota Corolla,180,Mensal,Pendente,2998.06,1861.94,Oferta: plano trimestral
+Juliana Oliveira,(87)99569-1866,2024-08-08,Rio de Janeiro,2025-02-03,3,2025-03-05,Toyota Corolla,180,Mensal,Pendente,4100.62,759.38,Oferta: plano trimestral
+Juliana Oliveira,(69)98430-4402,2024-04-27,Rio de Janeiro,2024-01-06,2,2024-01-13,Toyota Corolla,180,Semanal,Pendente,894.17,302.83,Oferta: plano mensal
+Bianca Costa,(58)95508-8217,2024-04-26,Minas Gerais,2024-10-02,1,2024-10-03,Honda Civic,175,Diário,Pendente,150.91,24.09,Oferta: plano semanal
+Ana Pereira,(91)93050-7529,2024-09-12,São Paulo,2024-05-27,2,2024-06-03,Honda Civic,175,Semanal,Pendente,659.87,503.88,Oferta: plano mensal
+Maria Souza,(52)92824-3187,2024-10-03,Bahia,2024-03-27,2,2024-04-03,Jeep Compass,250,Semanal,Pendente,879.15,783.35,Oferta: plano mensal
+Bianca Silva,(57)98064-3362,2024-08-07,Bahia,2024-01-30,1,2024-01-31,Jeep Compass,250,Diário,Pendente,152.96,97.04,Oferta: plano semanal
+Juliana Oliveira,(69)98430-4402,2024-04-27,Rio de Janeiro,2024-02-26,3,2024-03-27,Hyundai HB20,120,Mensal,Pendente,2455.67,784.33,Oferta: plano trimestral
+Carla Santos,(89)91364-9043,2024-07-26,Rio de Janeiro,2024-07-22,3,2024-08-21,Ford Ranger,300,Mensal,Pendente,5060.2,3039.8,Oferta: plano trimestral
+Maria Almeida,(79)97758-5711,2024-10-13,Minas Gerais,2024-12-28,1,2024-12-29,Ford Ranger,300,Diário,Pendente,246.02,53.98,Oferta: plano semanal
+Bianca Silva,(57)98064-3362,2024-08-07,Bahia,2024-03-15,2,2024-03-22,Ford Ranger,300,Semanal,Pendente,1980.37,14.63,Oferta: plano mensal
+Bianca Costa,(58)95508-8217,2024-04-26,Minas Gerais,2024-04-05,3,2024-05-05,Fiat Toro,280,Mensal,Pendente,7149.2,410.8,Oferta: plano trimestral
+Juliana Pereira,(75)98329-9208,2024-06-27,Minas Gerais,2024-01-23,3,2024-02-22,Chevrolet Onix,115,Mensal,Pendente,1979.39,1125.61,Oferta: plano trimestral
+Felipe Almeida,(55)97898-7047,2024-06-06,Rio de Janeiro,2024-03-18,3,2024-04-17,Volkswagen T-Cross,230,Mensal,Pendente,4924.67,1285.33,Oferta: plano trimestral
+Maria Santos,(82)99772-7314,2024-04-08,Minas Gerais,2024-10-05,3,2024-11-04,Honda Civic,175,Mensal,Pendente,4393.7,331.3,Oferta: plano trimestral
+Ana Silva,(28)99981-4566,2024-05-31,São Paulo,2024-02-09,3,2024-03-10,Volkswagen T-Cross,230,Mensal,Pendente,3563.89,2646.11,Oferta: plano trimestral
+Felipe Almeida,(55)97898-7047,2024-06-06,Rio de Janeiro,2024-06-06,2,2024-06-13,Jeep Compass,250,Semanal,Pendente,928.86,733.64,Oferta: plano mensal
+Pedro Silva,(21)94112-5162,2024-08-05,Bahia,2024-12-26,2,2025-01-02,Jeep Compass,250,Semanal,Pendente,1255.07,407.43,Oferta: plano mensal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-12-27,3,2025-01-26,Hyundai HB20,120,Mensal,Pendente,2276.72,963.28,Oferta: plano trimestral
+Juliana Nascimento,(85)91213-4212,2024-06-10,Rio de Janeiro,2024-08-31,3,2024-09-30,Toyota Corolla,180,Mensal,Pendente,3069.44,1790.56,Oferta: plano trimestral
+Felipe Nascimento,(73)99524-6701,2024-06-26,Minas Gerais,2024-09-11,1,2024-09-12,Hyundai HB20,120,Diário,Pendente,60.6,59.4,Oferta: plano semanal
+Laura Costa,(37)95371-2958,2024-11-15,Minas Gerais,2024-03-20,3,2024-04-19,Chevrolet Onix,115,Mensal,Pendente,2001.19,1103.81,Oferta: plano trimestral
+Felipe Souza,(81)93803-3176,2024-12-12,Rio de Janeiro,2024-02-14,2,2024-02-21,Honda Civic,175,Semanal,Pendente,669.71,494.04,Oferta: plano mensal
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-01-17,1,2024-01-18,Jeep Compass,250,Diário,Pendente,179.35,70.65,Oferta: plano semanal
+Juliana Pereira,(14)94882-1575,2024-07-30,Bahia,2024-12-29,2,2025-01-05,Chevrolet Onix,115,Semanal,Pendente,622.81,141.94,Oferta: plano mensal
+Laura Nascimento,(64)94762-9092,2024-11-23,Rio de Janeiro,2024-08-11,3,2024-09-10,Volkswagen T-Cross,230,Mensal,Pendente,3851.23,2358.77,Oferta: plano trimestral
+Felipe Santos,(67)98199-8602,2024-10-09,Minas Gerais,2025-01-23,3,2025-02-22,Fiat Toro,280,Mensal,Pendente,5996.49,1563.51,Oferta: plano trimestral
+Rafael Silva,(92)96067-8164,2024-09-28,Rio de Janeiro,2024-06-24,1,2024-06-25,Toyota Corolla,180,Diário,Pendente,171.84,8.16,Oferta: plano semanal
+Bianca Pereira,(55)94588-5787,2024-03-21,Rio de Janeiro,2024-01-26,2,2024-02-02,Toyota Corolla,180,Semanal,Pendente,718.85,478.15,Oferta: plano mensal
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-11-18,1,2024-11-19,Jeep Compass,250,Diário,Pendente,192.56,57.44,Oferta: plano semanal
+Marcos Silva,(33)92151-9228,2024-08-27,Minas Gerais,2024-06-17,1,2024-06-18,Volkswagen T-Cross,230,Diário,Pendente,203.92,26.08,Oferta: plano semanal
+Rafael Santos,(95)98632-7795,2024-01-16,São Paulo,2024-07-04,1,2024-07-05,Honda Civic,175,Diário,Pendente,118.01,56.99,Oferta: plano semanal
+Carla Santos,(30)94928-1406,2024-08-05,São Paulo,2024-07-25,2,2024-08-01,Fiat Toro,280,Semanal,Pendente,1730.29,131.71,Oferta: plano mensal
+João Rodrigues,(80)99321-1949,2024-11-07,Bahia,2024-12-16,3,2025-01-15,Ford Ranger,300,Mensal,Pendente,6720.41,1379.59,Oferta: plano trimestral
+Juliana Rodrigues,(77)92678-8503,2024-10-20,São Paulo,2024-09-22,1,2024-09-23,Toyota Corolla,180,Diário,Pendente,91.61,88.39,Oferta: plano semanal
+Pedro Silva,(21)94112-5162,2024-08-05,Bahia,2024-05-12,1,2024-05-13,Ford Ranger,300,Diário,Pendente,162.01,137.99,Oferta: plano semanal
+João Pereira,(51)96461-2415,2024-02-20,Minas Gerais,2024-02-25,2,2024-03-03,Fiat Toro,280,Semanal,Pendente,1831.78,30.22,Oferta: plano mensal
+Marcos Pereira,(70)95732-1130,2024-05-08,Bahia,2024-01-06,1,2024-01-07,Honda Civic,175,Diário,Pendente,167.6,7.4,Oferta: plano semanal
+Juliana Pereira,(75)98329-9208,2024-06-27,Minas Gerais,2024-11-25,3,2024-12-25,Ford Ranger,300,Mensal,Pendente,5874.46,2225.54,Oferta: plano trimestral
+Carla Nascimento,(85)98813-9711,2024-05-04,São Paulo,2024-12-31,1,2025-01-01,Honda Civic,175,Diário,Pendente,101.85,73.15,Oferta: plano semanal
+Rafael Oliveira,(79)95381-8533,2024-09-18,Rio de Janeiro,2024-07-23,1,2024-07-24,Volkswagen T-Cross,230,Diário,Pendente,182.01,47.99,Oferta: plano semanal
+Maria Silva,(46)94910-6265,2024-08-24,Minas Gerais,2024-12-24,1,2024-12-25,Fiat Toro,280,Diário,Pendente,209.1,70.9,Oferta: plano semanal
+Juliana Oliveira,(64)97386-9493,2024-02-19,São Paulo,2024-05-17,2,2024-05-24,Ford Ranger,300,Semanal,Pendente,1704.92,290.08,Oferta: plano mensal
+Juliana Souza,(44)99451-9943,2024-08-20,São Paulo,2024-07-23,1,2024-07-24,Ford Ranger,300,Diário,Pendente,270.91,29.09,Oferta: plano semanal
