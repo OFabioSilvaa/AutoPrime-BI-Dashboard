@@ -1,0 +1,25 @@
+SELECT
+  A.nome,
+  A.telefone,
+  A.data_cadastro,
+  A.estado,
+  B.data_inicio,
+  B.plano_id,
+  B.data_fim,
+  C.modelo,
+  C.valor_dia,
+  E.nome_plano,
+  D.status AS status_pagamento,
+  D.valor_pago,
+  D.valor_faltante,
+  CASE
+    WHEN TRIM(LOWER(E.nome_plano)) = 'semanal' THEN 'Oferta: plano mensal'
+    WHEN TRIM(LOWER(E.nome_plano)) = 'diario' THEN 'Oferta: plano semanal'
+    WHEN TRIM(LOWER(E.nome_plano)) = 'mensal' THEN 'Oferta: plano trimestral'
+    ELSE NULL
+  END AS oferta_desconto
+FROM clientes AS A
+INNER JOIN contratos AS B ON A.cliente_id = B.cliente_id
+INNER JOIN veiculos AS C ON B.veiculo_id = C.veiculo_id
+LEFT JOIN pagamentos AS D ON B.contrato_id = D.contrato_id
+LEFT JOIN planos AS E ON B.plano_id = E.plano_id;
